@@ -3,22 +3,23 @@
 ### About
 
 EcoFriendlyRentals is an **Oracle APEX-based** car rental application focused on sustainability. 
-The platform allows users to:
-    - set locations and dates 
-    - browse available vehicles
-    - customize rentals with supplementary services
 
-Beyond standard rental functionalities, the application incorporates:
-    - security measures
-    - reporting tools
-    - an integrated mapping feature (for locating nearby charging infrastructure) 
+The booking interface allows users to:
+- Set **rental locations and dates** 
+- Browse **available vehicles**
+- Enhance rental customization with **supplementary services**
+
+The platform incorporates:
+- **Security** measures for user authentication, authorization, and payments
+- **Reporting** tools for administrators: data aggregation and analytics
+- Integrated **mapping** service (**OpenChargeMap API**) to locate nearby charging infrastructure
 
 ### Installation Guide
 
 1. **Clone the Repository**  
 
 2. **Log in to Oracle APEX**  
-   - Ensure you are the workspace administrator.
+   - Ensure you have workspace administration rights.
 
 3. **Import the Application**  
    - Navigate to **App Builder**.
