@@ -14,6 +14,10 @@ The platform incorporates:
 - **Reporting** tools for administrators: data aggregation and analytics
 - Integrated **mapping** service (**OpenChargeMap API**) to locate nearby charging infrastructure
 
+### Database Schema
+
+![EcoFriendlyRentals Database Schema](images/database-schema.png)  
+
 ### Installation Guide
 
 1. **Clone the Repository**  
